@@ -1,0 +1,33 @@
+{
+    "name"       : "crossass-inspector",
+    "version"    : "0.9.0",
+    "location"   : "location",
+    "description": "A Sass mixin / function library for better variable inspection in development.",
+    "keywords"   : [
+        "sass",
+        "mixin",
+        "function",
+        "library",
+        "variable",
+        "inspection",
+        "debug",
+        "development"
+    ],
+    "main"       : [
+        "scss/_inspector.scss"
+    ],
+    "ignore"     : [
+        "**/.*"
+    ],
+    "authors"    : [
+        {
+            "name"    : "Whizark",
+            "homepage": "http://whizark.com"
+        }
+    ],
+    "homepage"   : "http://github.com/whizark/crossass-inspector",
+    "repository" : {
+        "type": "git",
+        "url" : "git://github.com/whizark/crossass-inspector.git"
+    }
+}
