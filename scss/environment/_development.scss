@@ -4,7 +4,7 @@
 // @category environment/development
 
 // The environment string for development.
-$x-environment: 'development';
+$x-inspector-environment: 'development';
 
 // Whether output debug information using @debug.
 $x-inspector-debug: true !default;

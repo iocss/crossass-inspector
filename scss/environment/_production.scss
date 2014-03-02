@@ -4,7 +4,7 @@
 // @category environment/production
 
 // The environment string for production.
-$x-environment: 'production';
+$x-inspector-environment: 'production';
 
 // Whether output debug information using @debug.
 $x-inspector-debug: false !default;
