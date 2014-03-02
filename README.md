@@ -120,7 +120,7 @@ Variable | Type | Description
 $x-inspector-environment | String | The environment string
 $x-inspector-debug | Bool | Whether output debug information using ```@debug```
 $x-inspector-toolbar | Bool | Whether show toolbar on screen
-$x-inspector-toolbar-position | String | The toolbar position (```top``` | ```bottom```)
+$x-inspector-toolbar-position | String | The toolbar position (```top```, ```bottom```)
 $x-inspector-indent-size | Number | The indent size (space) for the variable inspection
 
 ## Environment
