@@ -36,7 +36,7 @@ or
 // For development environment
 @import 'your-folder/crossass-inspector/scss/environment/development';
 
-// For development environment
+// For production environment
 // @import 'your-folder/crossass-inspector/scss/environment/production';
 
 @import 'your-folder/crossass-inspector/scss/inspector';
