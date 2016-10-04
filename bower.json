@@ -1,6 +1,6 @@
 {
     "name"       : "crossass-inspector",
-    "version"    : "0.9.0",
+    "version"    : "0.9.1",
     "location"   : "location",
     "description": "A Sass mixin / function library for better variable inspection in development.",
     "keywords"   : [
